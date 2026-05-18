@@ -1,0 +1,34 @@
+{
+    "dimensions": [
+        {
+            "id": "coverage",
+            "title": "도입범위",
+            "questions": []
+        },
+        {
+            "id": "governance",
+            "title": "관리체계",
+            "questions": []
+        },
+        {
+            "id": "infrastructure",
+            "title": "운영체계",
+            "questions": []
+        },
+        {
+            "id": "engineering",
+            "title": "개발체계",
+            "questions": []
+        },
+        {
+            "id": "leverage",
+            "title": "가치창출",
+            "questions": []
+        },
+        {
+            "id": "dependency",
+            "title": "의존성향",
+            "questions": []
+        }
+    ]    
+}
