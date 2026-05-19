@@ -3,7 +3,12 @@
         {
             "id": "coverage",
             "title": "도입범위",
-            "questions": []
+            "questions": [
+                {
+                    "id": "Q1",
+                    "question": ""
+                }
+            ]
         },
         {
             "id": "governance",
