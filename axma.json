@@ -7,19 +7,19 @@
                 {
                     "id": "P1A1",
                     "text": "인건비 중심 용역 서비스업",
-                    "score": "0",
+                    "group": "external",
                     "skip": 0
                 },
                 {
                     "id": "P1A2",
                     "text": "미디어·콘텐츠업 (이미지·영상·게임·소프트웨어 등)",
-                    "score": "0",
+                    "group": "external",
                     "skip": 0
                 },
                 {
                     "id": "P1A3",
                     "text": "위의 두가지 유형에 해당하지 않음",
-                    "score": "1",
+                    "group": "internal",
                     "skip": 0
                 }
             ]            
@@ -31,13 +31,13 @@
                 {
                     "id": "P2A1",
                     "text": "임원 (이사, 전무, 상무 등 C레벨)",
-                    "score": "1",
+                    "group": "executive",
                     "skip": 0
                 },
                 {
                     "id": "P2A2",
                     "text": "직원 (부장, 차장, 과장, 대리, 사원 또는 수석, 책임, 선임 등)",
-                    "score": "0",
+                    "group": "staff",
                     "skip": 0
                 }
             ]
