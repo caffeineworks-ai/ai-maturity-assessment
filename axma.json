@@ -40,7 +40,7 @@
     "dimensions": [
         {
             "id": "coverage",
-            "title": "영향범위",
+            "title": "변화범위",
             "questions": [
                 {
                     "id": "Q1",
@@ -106,7 +106,32 @@
         {
             "id": "governance",
             "title": "관리체계",
-            "questions": []
+            "questions": [
+                {
+                    "id": "Q4",
+                    "text": "다음 중 귀사의 현황에 해당하는 항목을 선택해 주십시오",
+                    "option": [
+                        {
+                            "id": "Q4A1",
+                            "text": "신규 채용 또는 직무 전환으로 AX 전담 인력 또는 조직을 확보하였음",
+                            "score": "2",
+                            "skip": 0
+                        },
+                        {
+                            "id": "Q4A2",
+                            "text": "일부 인력 또는 조직이 AX 업무를 병행하고 있음",
+                            "score": "1",
+                            "skip": 0
+                        },
+                        {
+                            "id": "Q4A3",
+                            "text": "AX 전담 인력 또는 조직을 보유하고 있지 않음",
+                            "score": "0",
+                            "skip": 1
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "infrastructure",
