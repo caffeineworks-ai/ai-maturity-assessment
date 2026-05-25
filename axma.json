@@ -40,7 +40,7 @@
     "dimensions": [
         {
             "id": "coverage",
-            "title": "변화범위",
+            "title": "도입범위",
             "questions": [
                 {
                     "id": "Q1",
